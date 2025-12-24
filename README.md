@@ -4,6 +4,8 @@
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
+![](OpenStack.png)
+
 A local cloud infrastructure project built using **OpenStack DevStack** to simulate real-world **Infrastructure-as-a-Service (IaaS)** concepts such as compute, networking, storage, and identity management.
 
 ## Features
